@@ -1,0 +1,1 @@
+This project will focus on CSS. We will know how to operate CSS and how to use it to make a website more beautiful. 
